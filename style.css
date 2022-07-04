@@ -1,0 +1,40 @@
+h1{
+  margin: 30px;
+  font-family: 'Lobster', cursive;
+  text-shadow: 5px 0 #232931;
+  font-size: 8rem;
+  color: #4ECCA3;
+}
+
+body{
+  text-align: center;
+background-color:  #393E46;
+}
+
+.container{
+  padding: 0 5% 0 5%;
+}
+
+
+.img1{
+  width: 50%;
+  border-width: 10px;
+  border-style: solid;
+  border-color: white;
+}
+
+
+.btn{
+  background-color: #4ECCA3;
+  color: white;
+  padding: 1%;
+  border-style: solid;
+  border-width: 5px;
+  border-color: white;
+  margin-top: 5%;
+}
+
+.btn:hover{
+  background-color: red;
+  color: yellow;
+}
